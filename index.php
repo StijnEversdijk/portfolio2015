@@ -6,7 +6,7 @@
       <?php include 'partials/home/welcome.php' ?>
       <?php include 'partials/general/work.php' ?>
 
-      <?php include 'partials/home/graduation.php' ?>
+      <?php // include 'partials/home/graduation.php' ?>
     </div><!-- .content -->
 
     <?php include 'partials/general/contact.php' ?>
